@@ -13,8 +13,4 @@
 
 </div>
 
-<div align="center"> 
-<a href="https://instagram.com/carol_developer" target="_blank">
-<img align="center" height="84" width="84" src="https://github.com/AdrielleFigueiredo2808/AdrielleFigueiredo2808/assets/44561610/88a3dd4d-f85e-4141-af09-a2667d81df5b">
-</a>
 
