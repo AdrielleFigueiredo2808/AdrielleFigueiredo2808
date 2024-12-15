@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&width=435&lines=My+name+is+Adrielle+Figueiredo.;I'm+23+years+old;I'm+from+Criciuma-SC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&width=435&lines=Meu+Nome+é+Adrielle+Figueiredo.;Tenho+23+Anos.+;Moro+em+Criciuma-SC.;Sou+Programadora+front-end.)](https://git.io/typing-svg)
 
 <br><br>
 
